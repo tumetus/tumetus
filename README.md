@@ -3,10 +3,10 @@
 [![Website](https://img.shields.io/website?label=tuomokankaanpaa.com&style=for-the-badge&url=https%3A%2F%2Ftuomokankaanpaa.com)](https://tuomokankaanpaa.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tumee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftumetus&screen_name=tumee)
 
-## I'm a Developer, Teacher and Magician!!
+## I'm a Developer, Teacher and Magician!
 
 - 🔭 I make Youtube [videos][youtube] and web development [courses][courses]
-- 🌱 I’m currently learning Next.js, Typescript and 
+- 🌱 I’m currently learning Next.js and Typescript
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I do card magic and collect playing cards
 ### Connect with me:
