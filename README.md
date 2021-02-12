@@ -5,7 +5,7 @@
 
 ## I'm a Developer, Teacher and Magician!!
 
-- 🔭 I make Youtube [videos]([youtube]) and web development [courses]([courses])
+- 🔭 I make Youtube [videos][youtube] and web development [courses][courses]
 - 🌱 I’m currently learning Next.js, Typescript and 
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I do card magic and collect playing cards
