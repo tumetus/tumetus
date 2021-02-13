@@ -3,10 +3,10 @@
 [![Website](https://img.shields.io/website?label=tuomokankaanpaa.com&style=for-the-badge&url=https%3A%2F%2Ftuomokankaanpaa.com)](https://tuomokankaanpaa.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tumee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftumetus&screen_name=tumee)
 
-## I'm a Developer, Teacher and Magician!!
+## I'm a Developer, Teacher and Magician!
 
 - 🔭 I make Youtube [videos][youtube] and web development [courses][courses]
-- 🌱 I’m currently learning Next.js, Typescript and 
+- 🌱 I’m currently learning Next.js and Typescript
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I do card magic and collect playing cards
 ### Connect with me:
@@ -24,6 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What is JAMStack? Must know for every developer in 2021!](https://www.youtube.com/watch?v=S6Mtfsl17PQ)
+- [What is Rubber Duck Debugging?](https://www.youtube.com/watch?v=ugegu6lSWaY)
+- [How to rapidly prototype Javascript in Visual Studio Code](https://www.youtube.com/watch?v=BnTy4IIa2hE)
+- [Building Star Wars React application (REST API)](https://www.youtube.com/watch?v=LT8hAGnju9g)
+- [How to add GitHub Profile README (new feature)](https://www.youtube.com/watch?v=9sxWizm4--w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
@@ -33,6 +38,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I converted my website from Wordpress to Jamstack](https://dev.to/tumee/how-i-converted-my-website-from-wordpress-to-jamstack-5hd8)
+- [What is JAMStack? Must know for every developer in 2021!](https://dev.to/tumee/what-is-jamstack-must-know-for-every-developer-in-2021-26gl)
+- [What is Rubber Duck Debugging?](https://dev.to/tumee/what-is-rubber-duck-debugging-520o)
+- [I updated by blog - CodePulse.blog is now TuomoKankaanpaa.com](https://dev.to/tumee/i-updated-by-blog-codepulse-blog-is-now-tuomokankaanpaa-com-3c7n)
+- [How to rapidly prototype Typescript & Javascript in VS Code](https://dev.to/tumee/how-to-rapidly-prototype-typescript-javascript-in-vs-code-4b8l)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
