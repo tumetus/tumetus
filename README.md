@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to add Cookie Notice Banner to React app 👨‍💻](https://www.youtube.com/watch?v=IqhfPrv0NZk)
 - [What is JAMStack? Must know for every developer in 2021!](https://www.youtube.com/watch?v=S6Mtfsl17PQ)
 - [What is Rubber Duck Debugging?](https://www.youtube.com/watch?v=ugegu6lSWaY)
 - [How to rapidly prototype Javascript in Visual Studio Code](https://www.youtube.com/watch?v=BnTy4IIa2hE)
 - [Building Star Wars React application (REST API)](https://www.youtube.com/watch?v=LT8hAGnju9g)
-- [How to add GitHub Profile README (new feature)](https://www.youtube.com/watch?v=9sxWizm4--w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
