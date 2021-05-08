@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Starting a programming blog? Don’t make this mistake 🚫](https://www.youtube.com/watch?v=v3fIUN5tndI)
+- [Why you should NOT code your own blog as a Software Developer!](https://www.youtube.com/watch?v=v3fIUN5tndI)
 - [How to add Google Analytics to your Next.js application (quick & easy)](https://www.youtube.com/watch?v=uwDFNJ01HxE)
 - [How to add Cookie Notice Banner to React app 👨‍💻](https://www.youtube.com/watch?v=IqhfPrv0NZk)
 - [What is JAMStack? Must know for every developer in 2021!](https://www.youtube.com/watch?v=S6Mtfsl17PQ)
