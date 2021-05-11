@@ -38,11 +38,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to add sitemap and robots.txt to Next.js application](https://dev.to/tumee/how-to-add-sitemap-and-robots-txt-to-next-js-application-24hd)
 - [Starting a programming blog? Don’t make this mistake 🚫](https://dev.to/tumee/starting-a-programming-blog-don-t-make-this-mistake-2g0a)
 - [How to add Cookie Notice Banner to React app 👨‍💻](https://dev.to/tumee/how-to-add-cookie-notice-banner-to-react-app-9e3)
 - [How I converted my website from Wordpress to Jamstack](https://dev.to/tumee/how-i-converted-my-website-from-wordpress-to-jamstack-5hd8)
 - [What is JAMStack? Must know for every developer in 2021!](https://dev.to/tumee/what-is-jamstack-must-know-for-every-developer-in-2021-26gl)
-- [What is Rubber Duck Debugging?](https://dev.to/tumee/what-is-rubber-duck-debugging-520o)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
