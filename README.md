@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [5 Tips on How To Debug Your Code (2021)](https://www.youtube.com/watch?v=k25kU0uaAnk)
 - [How to add Typescript to Next.js application (fast & easy)](https://www.youtube.com/watch?v=y6pwgEt3yds)
 - [How to fix explicit width & height error in Next.js v10 Image Component](https://www.youtube.com/watch?v=P7i5YIJRJew)
 - [5 reasons why EVERY PROGRAMMER should have a BLOG!](https://www.youtube.com/watch?v=IEV7AKtLmwI)
 - [How to add SITEMAP and robots.txt to Next.js application (fast and easy!)](https://www.youtube.com/watch?v=rIh-VelVzgc)
-- [Why you should NOT code your own blog as a Software Developer!](https://www.youtube.com/watch?v=v3fIUN5tndI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
