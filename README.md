@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Nextjs 11 - Amazing new features & improvements - All you need to know](https://www.youtube.com/watch?v=Ck1NT22nXtA)
 - [Chrome Dev Tools for Beginners - Become a better Web Developer](https://www.youtube.com/watch?v=ssRVOU7OVaw)
 - [5 Tips on How To Debug Your Code (2021)](https://www.youtube.com/watch?v=k25kU0uaAnk)
 - [How to add Typescript to Next.js application (fast & easy)](https://www.youtube.com/watch?v=y6pwgEt3yds)
 - [How to fix explicit width & height error in Next.js v10 Image Component](https://www.youtube.com/watch?v=P7i5YIJRJew)
-- [5 reasons why EVERY PROGRAMMER should have a BLOG!](https://www.youtube.com/watch?v=IEV7AKtLmwI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
