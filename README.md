@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Next.js 11: Script component (new feature!) #shorts](https://www.youtube.com/watch?v=zSA0sQ4G7_w)
 - [How to setup PostgreSQL Database unbelievably Fast & Easy! (w/ Docker)](https://www.youtube.com/watch?v=bxsVNQ6VmTA)
 - [Nextjs 11 - Amazing new features & improvements - All you need to know](https://www.youtube.com/watch?v=Ck1NT22nXtA)
 - [Chrome Dev Tools for Beginners - Become a better Web Developer](https://www.youtube.com/watch?v=ssRVOU7OVaw)
 - [5 Tips on How To Debug Your Code (2021)](https://www.youtube.com/watch?v=k25kU0uaAnk)
-- [How to add Typescript to Next.js application (fast & easy)](https://www.youtube.com/watch?v=y6pwgEt3yds)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
