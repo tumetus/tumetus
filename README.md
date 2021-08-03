@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Top 7 Tools For Web Developers That I Can't Live Without](https://www.youtube.com/watch?v=LD35LyiZKqQ)
 - [5 Beginner Programming Mistakes](https://www.youtube.com/watch?v=Sc3XR4OV7do)
 - [How To Use Google Like A Pro - Top 10 Tips & Tricks To Find Results Faster 2021!](https://www.youtube.com/watch?v=8fYvIGUGAnA)
 - [Next.js Conformance EXPLAINED - What does it actually mean!?](https://www.youtube.com/watch?v=SniRX60gUX8)
 - [I Built A Smartphone RADAR!](https://www.youtube.com/watch?v=qoNz_UMyO8Q)
-- [Next.js 11: Script component (new feature!) #shorts](https://www.youtube.com/watch?v=zSA0sQ4G7_w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
