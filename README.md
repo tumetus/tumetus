@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to setup React Monorepo (Lerna, CRA, Typescript, Craco, Yarn Workspaces)](https://www.youtube.com/watch?v=zQUpNa1hZIA)
 - [What are Pages in Next.js?](https://www.youtube.com/watch?v=xIsIkxGYfn0)
 - [Next.js project structure EXPLAINED - Next.js tutorial for Beginners](https://www.youtube.com/watch?v=gq_PFhIhQig)
 - [How to use VSCode INSIDE Github (in browser) - Github Codespaces](https://www.youtube.com/watch?v=gANADdb_cs0)
 - [What is Next.js? (Next.js vs React) - Next.js tutorial for Beginners](https://www.youtube.com/watch?v=C4rL4KvJlqY)
-- [Top 7 Tools For Web Developers That I Can't Live Without](https://www.youtube.com/watch?v=LD35LyiZKqQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
