@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Top 5 Features in VSCode to BOOST your PRODUCTIVITY](https://www.youtube.com/watch?v=ZKq5OIhKpzE)
 - [This is why I like being a Software Engineer](https://www.youtube.com/watch?v=THZ8i2vmg6I)
 - [I used Github Copilot for one week - Here's what I learned](https://www.youtube.com/watch?v=GSivicjQ8Mc)
 - [How to setup React Monorepo (Lerna, CRA, Typescript, Craco, Yarn Workspaces)](https://www.youtube.com/watch?v=zQUpNa1hZIA)
 - [What are Pages in Next.js?](https://www.youtube.com/watch?v=xIsIkxGYfn0)
-- [Next.js project structure EXPLAINED - Next.js tutorial for Beginners](https://www.youtube.com/watch?v=gq_PFhIhQig)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
