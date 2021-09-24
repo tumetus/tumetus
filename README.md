@@ -38,11 +38,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thoughts on Github Copilot 🤖](https://dev.to/tumee/thoughts-on-github-copilot-1h7f)
+- [Working with React, Monorepo, Typescript and Lerna 👨‍💻](https://dev.to/tumee/working-with-react-monorepo-typescript-and-lerna-3o7g)
 - [5 reasons why EVERY PROGRAMMER should have a BLOG!](https://dev.to/tumee/5-reasons-why-every-programmer-should-have-a-blog-1mh)
 - [How to add sitemap and robots.txt to Next.js application](https://dev.to/tumee/how-to-add-sitemap-and-robots-txt-to-next-js-application-24hd)
 - [Starting a programming blog? Don’t make this mistake 🚫](https://dev.to/tumee/starting-a-programming-blog-don-t-make-this-mistake-2g0a)
-- [How to add Cookie Notice Banner to React app 👨‍💻](https://dev.to/tumee/how-to-add-cookie-notice-banner-to-react-app-9e3)
-- [How I converted my website from Wordpress to Jamstack](https://dev.to/tumee/how-i-converted-my-website-from-wordpress-to-jamstack-5hd8)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
