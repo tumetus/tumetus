@@ -38,11 +38,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I like Software Engineering 🧡](https://dev.to/tumee/why-i-like-software-engineering-4em6)
 - [Thoughts on Github Copilot 🤖](https://dev.to/tumee/thoughts-on-github-copilot-1h7f)
 - [Working with React, Monorepo, Typescript and Lerna 👨‍💻](https://dev.to/tumee/working-with-react-monorepo-typescript-and-lerna-3o7g)
 - [5 reasons why EVERY PROGRAMMER should have a BLOG!](https://dev.to/tumee/5-reasons-why-every-programmer-should-have-a-blog-1mh)
 - [How to add sitemap and robots.txt to Next.js application](https://dev.to/tumee/how-to-add-sitemap-and-robots-txt-to-next-js-application-24hd)
-- [Starting a programming blog? Don’t make this mistake 🚫](https://dev.to/tumee/starting-a-programming-blog-don-t-make-this-mistake-2g0a)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
