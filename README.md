@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to deploy Next.js application to production (trigger deploys automatically)](https://www.youtube.com/watch?v=vFjlw3LaAcw)
 - [VSCode can do that?!](https://www.youtube.com/watch?v=qinZQstIpqY)
 - [5 Visual Studio Code features I use the most](https://www.youtube.com/watch?v=ZKq5OIhKpzE)
 - [This is why I like being a Software Engineer](https://www.youtube.com/watch?v=THZ8i2vmg6I)
 - [I used Github Copilot for one week - Here's what I learned](https://www.youtube.com/watch?v=GSivicjQ8Mc)
-- [How to setup React Monorepo (Lerna, CRA, Typescript, Craco, Yarn Workspaces)](https://www.youtube.com/watch?v=zQUpNa1hZIA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
