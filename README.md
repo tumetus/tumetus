@@ -38,11 +38,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Working with Next.js + Headless CMS 👨‍💻](https://dev.to/tumee/working-with-next-js-headless-cms-32g)
 - [Best VS Code features & Learning Material UI ✏️](https://dev.to/tumee/best-vs-code-features-learning-material-ui-2o4)
 - [Why I like Software Engineering 🧡](https://dev.to/tumee/why-i-like-software-engineering-4em6)
 - [Thoughts on Github Copilot 🤖](https://dev.to/tumee/thoughts-on-github-copilot-1h7f)
 - [Working with React, Monorepo, Typescript and Lerna 👨‍💻](https://dev.to/tumee/working-with-react-monorepo-typescript-and-lerna-3o7g)
-- [5 reasons why EVERY PROGRAMMER should have a BLOG!](https://dev.to/tumee/5-reasons-why-every-programmer-should-have-a-blog-1mh)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
