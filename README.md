@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Building a Blog with Next.js - Next js tutorial for beginners (part 1)](https://www.youtube.com/watch?v=giHGL3ZppTQ)
 - [How to deploy Next.js application to production (trigger deploys automatically)](https://www.youtube.com/watch?v=vFjlw3LaAcw)
 - [VSCode can do that?!](https://www.youtube.com/watch?v=qinZQstIpqY)
 - [5 Visual Studio Code features I use the most](https://www.youtube.com/watch?v=ZKq5OIhKpzE)
 - [This is why I like being a Software Engineer](https://www.youtube.com/watch?v=THZ8i2vmg6I)
-- [I used Github Copilot for one week - Here's what I learned](https://www.youtube.com/watch?v=GSivicjQ8Mc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
