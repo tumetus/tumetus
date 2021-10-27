@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Next.js 12 - All new features & updates](https://www.youtube.com/watch?v=S9jrLAyVvx4)
 - [Next.js + Headless CMS + GraphQL - Next.js tutorial for beginners (part 2)](https://www.youtube.com/watch?v=_VIF1if-dNA)
 - [7 Amazing repos for web developers that you are not using yet](https://www.youtube.com/watch?v=UAzWXI_tJyg)
 - [Building a Blog with Next.js - Next js tutorial for beginners (part 1)](https://www.youtube.com/watch?v=giHGL3ZppTQ)
 - [How to deploy Next.js application to production (trigger deploys automatically)](https://www.youtube.com/watch?v=vFjlw3LaAcw)
-- [VSCode can do that?!](https://www.youtube.com/watch?v=qinZQstIpqY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
