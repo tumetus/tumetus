@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Pre-Rendering in Next.js Explained](https://www.youtube.com/watch?v=JW2c-y-MdiA)
 - [Next.js 12 - Middleware &amp; Edge functions explained](https://www.youtube.com/watch?v=NlBSheYPKkg)
 - [Next.js 12 - All new features &amp; updates](https://www.youtube.com/watch?v=S9jrLAyVvx4)
 - [Next.js + Headless CMS + GraphQL - Next.js tutorial for beginners &lpar;part 2&rpar;](https://www.youtube.com/watch?v=_VIF1if-dNA)
 - [7 Amazing repos for web developers that you are not using yet](https://www.youtube.com/watch?v=UAzWXI_tJyg)
-- [Building a Blog with Next.js - Next js tutorial for beginners &lpar;part 1&rpar;](https://www.youtube.com/watch?v=giHGL3ZppTQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
