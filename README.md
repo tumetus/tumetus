@@ -38,11 +38,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [If you use React, DO THIS!](https://dev.to/tumee/if-you-use-react-do-this-gh8)
 - [Working on my Next.js Crash Course 📚](https://dev.to/tumee/working-on-my-nextjs-crash-course-4nch)
 - [Week full of Next.js](https://dev.to/tumee/week-full-of-nextjs-37di)
 - [React state management: Context API vs Recoil 🎯](https://dev.to/tumee/react-state-management-context-api-vs-recoil-30mb)
 - [How to build a blog with Next.js 👨‍💻](https://dev.to/tumee/how-to-build-a-blog-with-nextjs-10e8)
-- [How to deploy Next.js app to production 🚢](https://dev.to/tumee/how-to-deploy-nextjs-app-to-production-dei)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
