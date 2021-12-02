@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [My new Favourite VS Code Theme &lpar;honestly&rpar;](https://www.youtube.com/watch?v=6C26mVeDjxo)
 - [Need to show DRAFT content in PRODUCTION? THIS IS HOW!](https://www.youtube.com/watch?v=bQRhCTlXJQw)
 - [If you use React, DO THIS!](https://www.youtube.com/watch?v=LyrZEho45yw)
 - [Pre-Rendering in Next.js Explained](https://www.youtube.com/watch?v=JW2c-y-MdiA)
 - [Next.js 12 - Middleware &amp; Edge functions explained](https://www.youtube.com/watch?v=NlBSheYPKkg)
-- [Next.js 12 - All new features &amp; updates](https://www.youtube.com/watch?v=S9jrLAyVvx4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
