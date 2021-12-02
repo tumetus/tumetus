@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [My new Favourite VS Code Theme &lpar;honestly&rpar;](https://www.youtube.com/watch?v=6C26mVeDjxo)
+- [Best VS Code Theme! My HONEST opinion.](https://www.youtube.com/watch?v=6C26mVeDjxo)
 - [Need to show DRAFT content in PRODUCTION? THIS IS HOW!](https://www.youtube.com/watch?v=bQRhCTlXJQw)
 - [If you use React, DO THIS!](https://www.youtube.com/watch?v=LyrZEho45yw)
 - [Pre-Rendering in Next.js Explained](https://www.youtube.com/watch?v=JW2c-y-MdiA)
