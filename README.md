@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Use this GIT trick to test new features fast &amp; easily](https://www.youtube.com/watch?v=DSyg1MJVBTY)
 - [Best VS Code Theme! My HONEST opinion.](https://www.youtube.com/watch?v=6C26mVeDjxo)
 - [Need to show DRAFT content in PRODUCTION? THIS IS HOW!](https://www.youtube.com/watch?v=bQRhCTlXJQw)
 - [If you use React, DO THIS!](https://www.youtube.com/watch?v=LyrZEho45yw)
 - [Pre-Rendering in Next.js Explained](https://www.youtube.com/watch?v=JW2c-y-MdiA)
-- [Next.js 12 - Middleware &amp; Edge functions explained](https://www.youtube.com/watch?v=NlBSheYPKkg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
