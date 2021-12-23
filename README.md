@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [FINALLY understand Static Generation in Next.js](https://www.youtube.com/watch?v=GMzdNBUBoCQ)
 - [Want FASTER build time with Next.js? DO THIS!](https://www.youtube.com/watch?v=r3yqNI4v47g)
 - [Use this GIT trick to test new features fast &amp; easily](https://www.youtube.com/watch?v=DSyg1MJVBTY)
 - [Best VS Code Theme! My HONEST opinion.](https://www.youtube.com/watch?v=6C26mVeDjxo)
 - [Need to show DRAFT content in PRODUCTION? THIS IS HOW!](https://www.youtube.com/watch?v=bQRhCTlXJQw)
-- [If you use React, DO THIS!](https://www.youtube.com/watch?v=LyrZEho45yw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
