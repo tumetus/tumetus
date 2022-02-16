@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I Tried To Upgrade Next.js Without Crashing Production](https://www.youtube.com/watch?v=qbPWTYZ19A0)
 - [Prettier &amp; VSCode](https://www.youtube.com/watch?v=cQqvoUxKIYQ)
 - [How to Install Node the CORRECT Way 2022](https://www.youtube.com/watch?v=gH8C8Wc_BUk)
 - [How I setup New MacBook Pro for Development in 2022](https://www.youtube.com/watch?v=voABfpavx1I)
 - [FINALLY understand Static Generation in Next.js](https://www.youtube.com/watch?v=GMzdNBUBoCQ)
-- [Want FASTER build time with Next.js? DO THIS!](https://www.youtube.com/watch?v=r3yqNI4v47g)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
