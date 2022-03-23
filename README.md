@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Next.js On-Demand ISR // Full tutorial](https://www.youtube.com/watch?v=Wh3P-sS1w0I)
 - [Building A SaaS Application](https://www.youtube.com/watch?v=WKO3kvvqnJM)
 - [I Tried To Upgrade Next.js Without Crashing Production](https://www.youtube.com/watch?v=qbPWTYZ19A0)
 - [I finally learned how to setup Prettier &amp; VSCode](https://www.youtube.com/watch?v=cQqvoUxKIYQ)
 - [How to Install Node the CORRECT Way 2022](https://www.youtube.com/watch?v=gH8C8Wc_BUk)
-- [How I setup New MacBook Pro for Development in 2022](https://www.youtube.com/watch?v=voABfpavx1I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
