@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [SECRET to using Terminal like a SENIOR DEVELOPER](https://www.youtube.com/watch?v=6ryMwKY3m6A)
+- [How to enable Auto-Completion on Terminal](https://www.youtube.com/watch?v=6ryMwKY3m6A)
 - [Next.js On-Demand ISR // Full tutorial](https://www.youtube.com/watch?v=Wh3P-sS1w0I)
 - [Building A SaaS Application](https://www.youtube.com/watch?v=WKO3kvvqnJM)
 - [I Tried To Upgrade Next.js Without Crashing Production](https://www.youtube.com/watch?v=qbPWTYZ19A0)
