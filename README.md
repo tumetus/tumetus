@@ -28,7 +28,7 @@
 - [Edge functions VS Serverless functions](https://www.youtube.com/watch?v=M2KUAb1FH1Y)
 - [How to enable Auto-Completion on Terminal](https://www.youtube.com/watch?v=6ryMwKY3m6A)
 - [Next.js On-Demand ISR // Full tutorial](https://www.youtube.com/watch?v=Wh3P-sS1w0I)
-- [Building A SaaS Application](https://www.youtube.com/watch?v=WKO3kvvqnJM)
+- [How I built a SaaS application using Next.js](https://www.youtube.com/watch?v=WKO3kvvqnJM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
