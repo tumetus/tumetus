@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Edge Functions EXPLAINED](https://www.youtube.com/watch?v=I6WX_oAc330)
 - [How to save data with Next.js Middleware &amp; Edge functions &lpar;using serverless Redis&rpar;](https://www.youtube.com/watch?v=hY2BGM7AnmY)
 - [Edge functions VS Serverless functions](https://www.youtube.com/watch?v=M2KUAb1FH1Y)
 - [How to enable Auto-Completion on Terminal](https://www.youtube.com/watch?v=6ryMwKY3m6A)
 - [Next.js On-Demand ISR // Full tutorial](https://www.youtube.com/watch?v=Wh3P-sS1w0I)
-- [How I built a SaaS application using Next.js](https://www.youtube.com/watch?v=WKO3kvvqnJM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
