@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Building a bit.ly clone with Next.js &amp; Serverless Redis &lpar;url shortener app&rpar;](https://www.youtube.com/watch?v=W8LdPgSEA6Y)
+- [Next.js - Building URL SHORTNER app &lpar;middleware, edge functions&rpar;](https://www.youtube.com/watch?v=W8LdPgSEA6Y)
 - [Create A Documentation Under 5 Minutes &lpar;Next.js, MDX, Markdown&rpar;](https://www.youtube.com/watch?v=2TMlW6N5rcg)
 - [Edge Functions EXPLAINED](https://www.youtube.com/watch?v=I6WX_oAc330)
 - [Create Next.js Request Logger &lpar;middleware, edge functions, redis&rpar;](https://www.youtube.com/watch?v=hY2BGM7AnmY)
