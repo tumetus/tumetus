@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [90% of programmers make this mistake when asking questions](https://www.youtube.com/watch?v=PlfK_90F7ZM)
+- [The FATAL mistake 90% programmers make &lpar;when asking questions&rpar;](https://www.youtube.com/watch?v=PlfK_90F7ZM)
 - [Next.js - Building URL SHORTNER app &lpar;middleware, edge functions&rpar;](https://www.youtube.com/watch?v=W8LdPgSEA6Y)
 - [Create A Documentation Under 5 Minutes &lpar;Next.js, MDX, Markdown&rpar;](https://www.youtube.com/watch?v=2TMlW6N5rcg)
 - [Edge Functions EXPLAINED](https://www.youtube.com/watch?v=I6WX_oAc330)
