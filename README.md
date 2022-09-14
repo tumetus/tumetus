@@ -28,7 +28,7 @@
 - [My Next.js API Routes Were Slow, Until I Discovered This Secret Hack](https://www.youtube.com/watch?v=TOP33Kwa6Qg)
 - [Next.js Middleware is out of beta](https://www.youtube.com/watch?v=WfSN6xJ3XIc)
 - [How I Would Learn To Code &lpar;If I Could Start Over&rpar;](https://www.youtube.com/watch?v=JwsrQdTgWVk)
-- [The FATAL mistake 90% programmers make &lpar;when asking questions&rpar;](https://www.youtube.com/watch?v=PlfK_90F7ZM)
+- [You should ask questions, they say](https://www.youtube.com/watch?v=PlfK_90F7ZM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
