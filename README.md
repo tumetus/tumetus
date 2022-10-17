@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I went to a Javascript conference from the 90&#39;s &lpar;Nordic.js 2022&rpar;](https://www.youtube.com/watch?v=9w0oQtwj9Qo)
 - [This is why you should go to tech conferences](https://www.youtube.com/watch?v=N5oDgHLTEDI)
 - [GitHub Codespaces is FASTER than your laptop!](https://www.youtube.com/watch?v=p0bjZul7-o0)
 - [My Next.js API Routes Were Slow, Until I Discovered This Secret Hack](https://www.youtube.com/watch?v=TOP33Kwa6Qg)
 - [Next.js Middleware is out of beta](https://www.youtube.com/watch?v=WfSN6xJ3XIc)
-- [How I Would Learn To Code &lpar;If I Could Start Over&rpar;](https://www.youtube.com/watch?v=JwsrQdTgWVk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
