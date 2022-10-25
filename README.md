@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [M1 MacBook Pro after 6 months - The SHOCKING TRUTH](https://www.youtube.com/watch?v=7JhAeQu9sfM)
 - [Next.js - Programmatically Generate Images &lpar;using Edge Functions&rpar;](https://www.youtube.com/watch?v=pJDFvQu2DYE)
 - [I went to a Javascript conference from the 90&#39;s &lpar;Nordic.js 2022&rpar;](https://www.youtube.com/watch?v=9w0oQtwj9Qo)
 - [This is why you should go to tech conferences](https://www.youtube.com/watch?v=N5oDgHLTEDI)
 - [GitHub Codespaces is FASTER than your laptop!](https://www.youtube.com/watch?v=p0bjZul7-o0)
-- [My Next.js API Routes Were Slow, Until I Discovered This Secret Hack](https://www.youtube.com/watch?v=TOP33Kwa6Qg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
