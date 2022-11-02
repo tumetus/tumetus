@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Next.js 13 - Building a Todo App](https://www.youtube.com/watch?v=Y1FwWlBFUi8)
 - [Next.js 13 - Server &amp; Client Component Basics](https://www.youtube.com/watch?v=IcexKbnTEAM)
 - [Next.js 13 - Data Fetching &amp; Suspense Boundaries](https://www.youtube.com/watch?v=dDTW-psAwuw)
 - [Next.js 13 - What is new in it?](https://www.youtube.com/watch?v=WRjEcsxuedA)
 - [Next.js 13 - How to use App folder &amp; Layouts](https://www.youtube.com/watch?v=xXwxEudjiAY)
-- [M1 MacBook Pro after 6 months - The SHOCKING TRUTH](https://www.youtube.com/watch?v=7JhAeQu9sfM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
