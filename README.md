@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Day in the Life of a Software Engineer - First Person View - Working in Finland](https://www.youtube.com/watch?v=HVt8JkAHJiU)
 - [Next.js 13 - How to add Authentication &lpar;app folder&rpar;](https://www.youtube.com/watch?v=DfIDr2jCkHo)
 - [Next.js 13 - Building a Todo App](https://www.youtube.com/watch?v=Y1FwWlBFUi8)
 - [Next.js 13 - Server &amp; Client Component Basics](https://www.youtube.com/watch?v=IcexKbnTEAM)
 - [Next.js 13 - Data Fetching &amp; Suspense Boundaries](https://www.youtube.com/watch?v=dDTW-psAwuw)
-- [Next.js 13 - What is new in it?](https://www.youtube.com/watch?v=WRjEcsxuedA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
