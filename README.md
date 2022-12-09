@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Coding in another office 💻  Day in the Life of a Software Engineer - First Person View](https://www.youtube.com/watch?v=wv4qJQkIp_w)
+- [Day in the Life of a Software Engineer - First Person View - Coding in another office 👨‍💻](https://www.youtube.com/watch?v=wv4qJQkIp_w)
 - [Day in the Life of a Software Engineer - First Person View - Working in Finland](https://www.youtube.com/watch?v=HVt8JkAHJiU)
 - [Next.js 13 - How to add Authentication &lpar;app folder&rpar;](https://www.youtube.com/watch?v=DfIDr2jCkHo)
 - [Next.js 13 - Building a Todo App](https://www.youtube.com/watch?v=Y1FwWlBFUi8)
