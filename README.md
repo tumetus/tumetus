@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Day in the Life of a Software Engineer - First Person View - Working from sunny Finland](https://www.youtube.com/watch?v=skkCDWhaep8)
 - [Day in the Life of a Software Engineer - First Person View - Coding Next.js](https://www.youtube.com/watch?v=b3MoM7VSEaM)
 - [Next.js Protected API Routes &lpar;with NextAuth&rpar;](https://www.youtube.com/watch?v=BXyDKfIe-es)
 - [Day in the Life of a Software Engineer - First Person View - Coding in another office 👨‍💻](https://www.youtube.com/watch?v=wv4qJQkIp_w)
 - [Day in the Life of a Software Engineer - First Person View - Working in Finland](https://www.youtube.com/watch?v=HVt8JkAHJiU)
-- [Next.js 13 - How to add Authentication &lpar;app folder&rpar;](https://www.youtube.com/watch?v=DfIDr2jCkHo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
