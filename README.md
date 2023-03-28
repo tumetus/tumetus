@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Next.js Role Based Authorization with Middleware &amp; NextAuth](https://www.youtube.com/watch?v=9bI3ihPg5j0)
+- [Next.js 13 Role Based Authorization with Middleware &amp; NextAuth](https://www.youtube.com/watch?v=9bI3ihPg5j0)
 - [Day in the Life of a Software Engineer - Office Day &amp; Web Dev Meetup in Finland 🤩](https://www.youtube.com/watch?v=2bnmamun1tY)
 - [Next.js ROUTE HANDLERS deep dive](https://www.youtube.com/watch?v=qSEzDVEQVBM)
 - [Next.js 13 API Routes &lpar;NEW&rpar;](https://www.youtube.com/watch?v=rG2exRlD2FQ)
