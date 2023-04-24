@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Day in the Life of a Software Engineer - Coding outdoors](https://www.youtube.com/watch?v=JyKhSyMib5k)
+- [Coding outdoors 🌴 Day in the Life of a Software Engineer](https://www.youtube.com/watch?v=JyKhSyMib5k)
 - [Next.js 13 Role Based Authorization with Middleware &amp; NextAuth](https://www.youtube.com/watch?v=9bI3ihPg5j0)
 - [Day in the Life of a Software Engineer - Office Day &amp; Web Dev Meetup in Finland 🤩](https://www.youtube.com/watch?v=2bnmamun1tY)
 - [Next.js ROUTE HANDLERS deep dive](https://www.youtube.com/watch?v=qSEzDVEQVBM)
