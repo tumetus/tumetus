@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to setup &amp; use Vercel Postgres &lpar;Serverless PostgreSQL database&rpar;](https://www.youtube.com/watch?v=_ad99LhxBeQ)
+- [Next.ja - How to setup &amp; use Vercel Postgres &lpar;Serverless PostgreSQL database&rpar;](https://www.youtube.com/watch?v=_ad99LhxBeQ)
 - [Next.js - How to setup &amp; use Vercel KV &lpar;Redis database&rpar;](https://www.youtube.com/watch?v=nV3IN4Bkl9s)
 - [Vercel Storage in 5 minutes!](https://www.youtube.com/watch?v=Ty0W3VymhvI)
 - [Day in the Life of a Software Engineer - Coding outdoors 🌴](https://www.youtube.com/watch?v=JyKhSyMib5k)
