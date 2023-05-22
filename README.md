@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Next.js 13 App Directory &amp; i18n - Full Tutorial](https://www.youtube.com/watch?v=pKolfZFW3gs)
 - [Next.js - How to setup &amp; use Vercel Postgres &lpar;Serverless PostgreSQL database&rpar;](https://www.youtube.com/watch?v=_ad99LhxBeQ)
 - [Next.js - How to setup &amp; use Vercel KV &lpar;Redis database&rpar;](https://www.youtube.com/watch?v=nV3IN4Bkl9s)
 - [Vercel Storage in 5 minutes!](https://www.youtube.com/watch?v=Ty0W3VymhvI)
 - [Day in the Life of a Software Engineer - Coding outdoors 🌴](https://www.youtube.com/watch?v=JyKhSyMib5k)
-- [Next.js 13 Role Based Authorization with Middleware &amp; NextAuth](https://www.youtube.com/watch?v=9bI3ihPg5j0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
