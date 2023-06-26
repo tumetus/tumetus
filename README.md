@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [My Desk Setup 2023 &lpar;Software Engineer&rpar;](https://www.youtube.com/watch?v=Uz54VewHhRE)
 - [Dark Mode in Next JS 13 App Directory with TailwindCSS &lpar;for beginners&rpar;](https://www.youtube.com/watch?v=optD7ns4ISQ)
 - [Next.js 13 App Directory &amp; i18n - Full Tutorial](https://www.youtube.com/watch?v=pKolfZFW3gs)
 - [Next.js - How to setup &amp; use Vercel Postgres &lpar;Serverless PostgreSQL database&rpar;](https://www.youtube.com/watch?v=_ad99LhxBeQ)
 - [Next.js - How to setup &amp; use Vercel KV &lpar;Redis database&rpar;](https://www.youtube.com/watch?v=nV3IN4Bkl9s)
-- [Vercel Storage in 5 minutes!](https://www.youtube.com/watch?v=Ty0W3VymhvI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
