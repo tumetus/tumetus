@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [UPDATE: Next.js 13 Authentication Made Simple! Step-by-Step Tutorial](https://www.youtube.com/watch?v=-sco152tdgc)
+- [Next.js 13 - How to add PASSWORDLESS Authentication &lpar;App Router&rpar;](https://www.youtube.com/watch?v=-sco152tdgc)
 - [First Person View - Coding and Coffee 👨‍💻 Day in the Life of a Software Engineer](https://www.youtube.com/watch?v=yUnFH5L1MpI)
 - [My Desk Setup 2023 &lpar;Software Engineer&rpar;](https://www.youtube.com/watch?v=Uz54VewHhRE)
 - [Dark Mode in Next JS 13 App Directory with TailwindCSS &lpar;for beginners&rpar;](https://www.youtube.com/watch?v=optD7ns4ISQ)
