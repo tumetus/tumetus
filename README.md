@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I Never Want to Create React Forms Any Other Way](https://www.youtube.com/watch?v=Oj4_usUjeIQ)
 - [Next.js 13 - How to add PASSWORDLESS Authentication &lpar;App Router&rpar;](https://www.youtube.com/watch?v=-sco152tdgc)
 - [First Person View - Coding and Coffee 👨‍💻 Day in the Life of a Software Engineer](https://www.youtube.com/watch?v=yUnFH5L1MpI)
 - [My Desk Setup 2023 &lpar;Software Engineer&rpar;](https://www.youtube.com/watch?v=Uz54VewHhRE)
 - [Dark Mode in Next JS 13 App Directory with TailwindCSS &lpar;for beginners&rpar;](https://www.youtube.com/watch?v=optD7ns4ISQ)
-- [Next.js 13 App Directory &amp; i18n - Full Tutorial](https://www.youtube.com/watch?v=pKolfZFW3gs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
