@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Next.js Server Actions Tutorial &lpar;caching &amp; revalidation&rpar;](https://www.youtube.com/watch?v=O9NX6r7wZEY)
+- [Next.js 13 - How to ACTUALLY use Server Actions &lpar;caching &amp; revalidation&rpar;](https://www.youtube.com/watch?v=O9NX6r7wZEY)
 - [How Did I Not Know This State Management Tool Earlier??!](https://www.youtube.com/watch?v=7wP6BXQCQbY)
 - [I Never Want to Create React Forms Any Other Way](https://www.youtube.com/watch?v=Oj4_usUjeIQ)
 - [Next.js 13 - How to add PASSWORDLESS Authentication &lpar;App Router&rpar;](https://www.youtube.com/watch?v=-sco152tdgc)
