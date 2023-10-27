@@ -25,7 +25,7 @@
 
 <!-- YOUTUBE:START -->
 - [Next.js 14 - All you need to know](https://www.youtube.com/watch?v=1422BABWSkA)
-- [Next.js 13 + Tailwind CSS + i18n + Headless CMS - Build and Deploy a Modern Next JS 13 App](https://www.youtube.com/watch?v=kbk-_guDskg)
+- [Next.js 13 + Tailwind CSS + i18n + Headless CMS - Build and Deploy a Modern Next JS 14 App](https://www.youtube.com/watch?v=kbk-_guDskg)
 - [Watch these 205 minutes if you want to learn Next.js 13..](https://www.youtube.com/watch?v=nLxp7AVAYQo)
 - [Next.js 13 - How to ACTUALLY use Server Actions &lpar;caching &amp; revalidation&rpar;](https://www.youtube.com/watch?v=O9NX6r7wZEY)
 - [How Did I Not Know This State Management Tool Earlier??!](https://www.youtube.com/watch?v=7wP6BXQCQbY)
