@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Day in the Life of a Software Engineer - Unboxing a Stream Deck+ 📦](https://www.youtube.com/watch?v=OR22QoRG48w)
+- [What my day looks like as a Senior Software Engineer](https://www.youtube.com/watch?v=OR22QoRG48w)
 - [Next.js 14 - All you need to know](https://www.youtube.com/watch?v=1422BABWSkA)
 - [Next.js 14 + Tailwind CSS + i18n + Headless CMS - Build and Deploy a Modern Next JS 14 App](https://www.youtube.com/watch?v=kbk-_guDskg)
 - [Watch these 205 minutes if you want to learn Next.js 13..](https://www.youtube.com/watch?v=nLxp7AVAYQo)
