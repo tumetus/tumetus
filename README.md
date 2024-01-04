@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to get ahead of 99% of React Developers](https://www.youtube.com/watch?v=uQXUPP9iWbQ)
+- [How to Get Ahead of 99% of React Developers](https://www.youtube.com/watch?v=uQXUPP9iWbQ)
 - [What my day looks like as a Senior Software Engineer](https://www.youtube.com/watch?v=OR22QoRG48w)
 - [Next.js 14 - All you need to know](https://www.youtube.com/watch?v=1422BABWSkA)
 - [Next.js 14 + Tailwind CSS + i18n + Headless CMS - Build and Deploy a Modern Next JS 14 App](https://www.youtube.com/watch?v=kbk-_guDskg)
