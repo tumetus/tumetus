@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [4 Next.js Route Handler Mistakes to Avoid](https://www.youtube.com/watch?v=8goGfVVdBGU)
 - [5 Benefits of Using Server Components in Next.js](https://www.youtube.com/watch?v=TKoA8UWfkGY)
 - [How to Get Ahead of 99% of React Developers](https://www.youtube.com/watch?v=uQXUPP9iWbQ)
 - [What my day looks like as a Senior Software Engineer](https://www.youtube.com/watch?v=OR22QoRG48w)
 - [Next.js 14 - All you need to know](https://www.youtube.com/watch?v=1422BABWSkA)
-- [Next.js 14 + Tailwind CSS + i18n + Headless CMS - Build and Deploy a Modern Next JS 14 App](https://www.youtube.com/watch?v=kbk-_guDskg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
