@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Next.js Route Handlers - 4 Mistakes to Avoid](https://www.youtube.com/watch?v=8goGfVVdBGU)
+- [4 Mistakes to Avoid With Next.js Route Handlers](https://www.youtube.com/watch?v=8goGfVVdBGU)
 - [5 Benefits of Using Server Components in Next.js](https://www.youtube.com/watch?v=TKoA8UWfkGY)
 - [How to Get Ahead of 99% of Next.js Developers](https://www.youtube.com/watch?v=uQXUPP9iWbQ)
 - [What my day looks like as a Senior Software Engineer](https://www.youtube.com/watch?v=OR22QoRG48w)
