@@ -38,11 +38,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Caching Mechanisms Next.js Uses to Optimize Application Performance](https://dev.to/tumee/4-caching-mechanisms-nextjs-uses-to-optimize-application-performance-5eo8)
 - [Want FASTER build time with Next.js? DO THIS! ⚡](https://dev.to/tumee/want-faster-build-time-with-nextjs-do-this-39lc)
 - [Underrated Next.js feature 🤯](https://dev.to/tumee/underrated-nextjs-feature-56ii)
 - [If you use React, DO THIS!](https://dev.to/tumee/if-you-use-react-do-this-gh8)
 - [Working on my Next.js Crash Course 📚](https://dev.to/tumee/working-on-my-nextjs-crash-course-4nch)
-- [Week full of Next.js](https://dev.to/tumee/week-full-of-nextjs-37di)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
