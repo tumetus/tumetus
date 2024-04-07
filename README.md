@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [99% of Developers Use This Next.js Feature Wrong](https://www.youtube.com/watch?v=hUotqWTKmOc)
+- [How to Correctly Use Fetch In Next.js](https://www.youtube.com/watch?v=hUotqWTKmOc)
 - [4 Mistakes to Avoid With Next.js Route Handlers](https://www.youtube.com/watch?v=8goGfVVdBGU)
 - [5 Benefits of Using Server Components in Next.js](https://www.youtube.com/watch?v=TKoA8UWfkGY)
 - [How to Get Ahead of 99% of Next.js Developers](https://www.youtube.com/watch?v=uQXUPP9iWbQ)
