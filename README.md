@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Next.js - How To Save Data To a Database &lpar;Vercel Postgres&rpar;](https://www.youtube.com/watch?v=NKbiJHFc2sU)
+- [How To Save Data To a Database &lpar;Vercel Postgres&rpar;](https://www.youtube.com/watch?v=NKbiJHFc2sU)
 - [How to Correctly Use Fetch In Next.js](https://www.youtube.com/watch?v=hUotqWTKmOc)
 - [4 Mistakes to Avoid With Next.js Route Handlers](https://www.youtube.com/watch?v=8goGfVVdBGU)
 - [5 Benefits of Using Server Components in Next.js](https://www.youtube.com/watch?v=TKoA8UWfkGY)
