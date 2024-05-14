@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How To Read Data From a Database &lpar;Vercel Postgres&rpar;](https://www.youtube.com/watch?v=K5L1sN0Bkbc)
 - [Building an Ecommerce Review Component with Next.js &amp; Vercel Postgres](https://www.youtube.com/watch?v=NKbiJHFc2sU)
 - [How to Correctly Use Fetch In Next.js](https://www.youtube.com/watch?v=hUotqWTKmOc)
 - [4 Mistakes to Avoid With Next.js Route Handlers](https://www.youtube.com/watch?v=8goGfVVdBGU)
 - [5 Benefits of Using Server Components in Next.js](https://www.youtube.com/watch?v=TKoA8UWfkGY)
-- [How to Get Ahead of 99% of Next.js Developers](https://www.youtube.com/watch?v=uQXUPP9iWbQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
