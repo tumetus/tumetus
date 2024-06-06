@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [3 Steps for React Developers To Start Learning Next.js &lpar;where to start&rpar;](https://www.youtube.com/watch?v=m-76DCzX36U)
+- [How To Master Next.js In 3 Steps &lpar;for beginners&rpar;](https://www.youtube.com/watch?v=m-76DCzX36U)
 - [Building Product component for ecommerce app &lpar;with Vercel Postgres&rpar;](https://www.youtube.com/watch?v=K5L1sN0Bkbc)
 - [Building an Ecommerce Review Component with Next.js &amp; Vercel Postgres](https://www.youtube.com/watch?v=NKbiJHFc2sU)
 - [How to Correctly Use Fetch In Next.js](https://www.youtube.com/watch?v=hUotqWTKmOc)
