@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Next.js Rendering Environments Explained](https://www.youtube.com/watch?v=NJP44DvfdhY)
 - [4 Use Cases For Using Server Components In Next.js](https://www.youtube.com/watch?v=LTkA4aMhkds)
 - [This will change everything &lpar;Built-in AI in the browser&rpar;](https://www.youtube.com/watch?v=cZFzVrvQhKg)
 - [4 Methods To Handle Navigation In Next.js &lpar;client &amp; server components&rpar;](https://www.youtube.com/watch?v=8p0JdHt6GxM)
 - [How To Master Next.js In 3 Steps &lpar;for beginners&rpar;](https://www.youtube.com/watch?v=m-76DCzX36U)
-- [Building Product component for ecommerce app &lpar;with Vercel Postgres&rpar;](https://www.youtube.com/watch?v=K5L1sN0Bkbc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
