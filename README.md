@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [5 Mistakes To Avoid With Next.js Route Handlers](https://www.youtube.com/watch?v=omqwoJ2Jg9s)
 - [5 Reasons To Use App Router In Next.js](https://www.youtube.com/watch?v=9MHWsqCBKAY)
 - [Hard navigation vs Soft navigation in Next.js](https://www.youtube.com/watch?v=62KWJ1v1MLw)
 - [Next.js Rendering Environments Explained](https://www.youtube.com/watch?v=NJP44DvfdhY)
 - [4 Use Cases For Using Server Components In Next.js](https://www.youtube.com/watch?v=LTkA4aMhkds)
-- [This will change everything &lpar;Built-in AI in the browser&rpar;](https://www.youtube.com/watch?v=cZFzVrvQhKg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
