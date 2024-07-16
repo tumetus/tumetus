@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [My workflow for creating React components](https://www.youtube.com/watch?v=JqT2I-mjqVk)
 - [5 Insights On Web Development](https://www.youtube.com/watch?v=BZs1ZSGZQpk)
 - [5 Mistakes To Avoid With Next.js Route Handlers](https://www.youtube.com/watch?v=omqwoJ2Jg9s)
 - [5 Reasons To Use App Router In Next.js](https://www.youtube.com/watch?v=9MHWsqCBKAY)
 - [Hard navigation vs Soft navigation in Next.js](https://www.youtube.com/watch?v=62KWJ1v1MLw)
-- [Next.js Rendering Environments Explained](https://www.youtube.com/watch?v=NJP44DvfdhY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
