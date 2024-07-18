@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [3 Step Framework For Mastering Next.js](https://www.youtube.com/watch?v=Y5NpmAEHTBU)
 - [3 Javascript Mistakes To Avoid](https://www.youtube.com/watch?v=Uy77oQ1uLa0)
 - [My workflow for creating React components](https://www.youtube.com/watch?v=JqT2I-mjqVk)
 - [5 Insights On Web Development](https://www.youtube.com/watch?v=BZs1ZSGZQpk)
 - [5 Mistakes To Avoid With Next.js Route Handlers](https://www.youtube.com/watch?v=omqwoJ2Jg9s)
-- [5 Reasons To Use App Router In Next.js](https://www.youtube.com/watch?v=9MHWsqCBKAY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
