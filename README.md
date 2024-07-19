@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Coding Your Own Blog Is A Horrible Idea](https://www.youtube.com/watch?v=jZpEgF9Yf14)
 - [3 Step Framework For Mastering Next.js](https://www.youtube.com/watch?v=Y5NpmAEHTBU)
 - [3 Javascript Mistakes To Avoid](https://www.youtube.com/watch?v=Uy77oQ1uLa0)
 - [My workflow for creating React components](https://www.youtube.com/watch?v=JqT2I-mjqVk)
 - [5 Insights On Web Development](https://www.youtube.com/watch?v=BZs1ZSGZQpk)
-- [5 Mistakes To Avoid With Next.js Route Handlers](https://www.youtube.com/watch?v=omqwoJ2Jg9s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
