@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [4 Lessons Learned Building My First Next.js App](https://www.youtube.com/watch?v=AautA4J1eps)
 - [3 Tools For Web Developers To Visualise Design Concepts With Interactive Wireframes](https://www.youtube.com/watch?v=Xy_2X8hdllE)
 - [Wireframing Mistakes Developers Make &lpar;And How To Avoid Them&rpar;](https://www.youtube.com/watch?v=y_Gmh6Nicuc)
 - [3 Reasons To Stop Watching Coding Tutorials](https://www.youtube.com/watch?v=0cklM5tGBFs)
 - [1 Hack For Beating Procrastination](https://www.youtube.com/watch?v=Kaeno6NUw-k)
-- [Coding Your Own Blog Is A Horrible Idea](https://www.youtube.com/watch?v=jZpEgF9Yf14)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
