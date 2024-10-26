@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Next.js Caching Is Changing &lpar;Next.js 15&rpar;](https://www.youtube.com/watch?v=qXDtfaF2SKw)
 - [Next.js 15 - All you need to know](https://www.youtube.com/watch?v=JMu_g0oXBBA)
 - [Next.js tutorial - Image component](https://www.youtube.com/watch?v=8lDxivEusUc)
 - [Next.js Beginner Manual: Setup your project the right way](https://www.youtube.com/watch?v=jY7IxCISPbs)
 - [4 Lessons Learned Building My First Next.js App](https://www.youtube.com/watch?v=AautA4J1eps)
-- [3 Tools For Web Developers To Visualise Design Concepts With Interactive Wireframes](https://www.youtube.com/watch?v=Xy_2X8hdllE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
