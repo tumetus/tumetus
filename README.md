@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [5 Habits That Will Make You a Better Programmer](https://www.youtube.com/watch?v=KqW7tAwdOzc)
 - [Next.js Caching Is Changing &lpar;Next.js 15&rpar;](https://www.youtube.com/watch?v=qXDtfaF2SKw)
 - [Next.js 15 - All you need to know](https://www.youtube.com/watch?v=JMu_g0oXBBA)
 - [Next.js tutorial - Image component](https://www.youtube.com/watch?v=8lDxivEusUc)
 - [Next.js Beginner Manual: Setup your project the right way](https://www.youtube.com/watch?v=jY7IxCISPbs)
-- [4 Lessons Learned Building My First Next.js App](https://www.youtube.com/watch?v=AautA4J1eps)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
