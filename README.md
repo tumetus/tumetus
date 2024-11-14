@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How To Become A Prolific Software Engineer &lpar;5 Rules&rpar;](https://www.youtube.com/watch?v=gi4yHMm05Z0)
+- [5 Rules Of How To Become A Prolific Software Engineer](https://www.youtube.com/watch?v=gi4yHMm05Z0)
 - [Next.js 15 Form Component &lpar;Everything you need to know&rpar;](https://www.youtube.com/watch?v=ISaI1J3sqDk)
 - [5 Habits That Will Make You a Better Programmer](https://www.youtube.com/watch?v=KqW7tAwdOzc)
 - [Next.js Caching Is Changing &lpar;Next.js 15&rpar;](https://www.youtube.com/watch?v=qXDtfaF2SKw)
