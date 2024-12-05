@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to Use Fonts In Next.js &lpar;Google Fonts, Local Fonts, Tailwind CSS&rpar;](https://www.youtube.com/watch?v=DqGr8YwO52Q)
 - [Next.js 15 Routing Explained For Beginners](https://www.youtube.com/watch?v=qivq_vDYFGk)
 - [How To Stand Out As A Software Engineer In 2025 &lpar;6 Steps&rpar;](https://www.youtube.com/watch?v=XWkZRECoYZA)
 - [How To Become A Better Software Engineer In 2025 &lpar;5 Rules&rpar;](https://www.youtube.com/watch?v=gi4yHMm05Z0)
 - [Next.js 15 Form Component &lpar;Everything you need to know&rpar;](https://www.youtube.com/watch?v=ISaI1J3sqDk)
-- [5 Habits That Will Make You a Better Programmer](https://www.youtube.com/watch?v=KqW7tAwdOzc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
