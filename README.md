@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Next.js 15 Fonts Tutorial &lpar;Google Fonts, Local Fonts, Tailwind CSS&rpar;](https://www.youtube.com/watch?v=DqGr8YwO52Q)
+- [Using Fonts in Next.js &lpar;Google Fonts, Local Fonts, Tailwind CSS&rpar;](https://www.youtube.com/watch?v=DqGr8YwO52Q)
 - [Next.js 15 Routing Explained For Beginners](https://www.youtube.com/watch?v=qivq_vDYFGk)
 - [How To Stand Out As A Software Engineer In 2025 &lpar;6 Steps&rpar;](https://www.youtube.com/watch?v=XWkZRECoYZA)
 - [How To Become A Better Software Engineer In 2025 &lpar;5 Rules&rpar;](https://www.youtube.com/watch?v=gi4yHMm05Z0)
