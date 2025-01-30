@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [6 Reasons To Get Better At Writing](https://www.youtube.com/watch?v=4_skMK_gkcQ)
 - [5 Soft Skill Mistakes Developers Make — Is this you?](https://www.youtube.com/watch?v=pir6f5O3cUo)
 - [Want to be confident in technical meetings? Use these 6 quick hacks](https://www.youtube.com/watch?v=L72ByYqVjlE)
 - [Using Fonts in Next.js &lpar;Google Fonts, Local Fonts, Tailwind CSS&rpar;](https://www.youtube.com/watch?v=DqGr8YwO52Q)
 - [Next.js 15 Routing Explained For Beginners](https://www.youtube.com/watch?v=qivq_vDYFGk)
-- [How To Stand Out As A Software Engineer In 2025 &lpar;6 Steps&rpar;](https://www.youtube.com/watch?v=XWkZRECoYZA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
