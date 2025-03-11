@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How To Use AI In Coding &lpar;So You Don’t Fall Behind&rpar;](https://www.youtube.com/watch?v=YF-DTDN05hU)
 - [How To Setup Rich Text Editor In Next.js](https://www.youtube.com/watch?v=mKIQZNKdU2w)
 - [What Framework To Use &lpar;and how to know you made the right choice&rpar;](https://www.youtube.com/watch?v=9Bp91NAgO6c)
 - [6 Reasons To Get Better At Writing](https://www.youtube.com/watch?v=4_skMK_gkcQ)
 - [5 Soft Skill Mistakes Developers Make — Is this you?](https://www.youtube.com/watch?v=pir6f5O3cUo)
-- [Want to be confident in technical meetings? Use these 6 quick hacks](https://www.youtube.com/watch?v=L72ByYqVjlE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
