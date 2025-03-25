@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why AI Makes Developers More Valuable Than Ever](https://www.youtube.com/watch?v=earKW7lNzrA)
 - [Next.js Fonts with Tailwind CSS 4.0](https://www.youtube.com/watch?v=axnWcrOGKOg)
 - [4 Reasons Why AI-Enhanced Developers Won’t Get Replaced &lpar;But Others Will&rpar;](https://www.youtube.com/watch?v=VibTxXKBzCE)
 - [5 Practical Ways to Use AI in Coding &lpar;So You Don&#39;t Fall Behind&rpar;](https://www.youtube.com/watch?v=YF-DTDN05hU)
 - [How To Setup Rich Text Editor In Next.js](https://www.youtube.com/watch?v=mKIQZNKdU2w)
-- [What Framework To Use &lpar;and how to know you made the right choice&rpar;](https://www.youtube.com/watch?v=9Bp91NAgO6c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
