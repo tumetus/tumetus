@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [AI-Powered Developer: The Future of Coding](https://www.youtube.com/watch?v=YuEzeDowK_o)
+- [Will AI replace developers?](https://www.youtube.com/watch?v=YuEzeDowK_o)
 - [Why AI Makes Developers More Valuable Than Ever](https://www.youtube.com/watch?v=earKW7lNzrA)
 - [Next.js Fonts with Tailwind CSS 4.0](https://www.youtube.com/watch?v=axnWcrOGKOg)
 - [4 Reasons Why AI-Enhanced Developers Won’t Get Replaced &lpar;But Others Will&rpar;](https://www.youtube.com/watch?v=VibTxXKBzCE)
