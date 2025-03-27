@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [6 Surprising Things You Can Do With v0](https://www.youtube.com/watch?v=IJH2_WFybEA)
 - [The beauty of using AI as your developer assistant](https://www.youtube.com/watch?v=i-kcoltsphk)
 - [The secret of using AI effectively in coding](https://www.youtube.com/watch?v=mrrk_RE2Mms)
 - [Will AI replace developers?](https://www.youtube.com/watch?v=YuEzeDowK_o)
 - [Why AI Makes Developers More Valuable Than Ever](https://www.youtube.com/watch?v=earKW7lNzrA)
-- [Next.js Fonts with Tailwind CSS 4.0](https://www.youtube.com/watch?v=axnWcrOGKOg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
