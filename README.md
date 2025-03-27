@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This is the most common way to navigate between pages in Next.js](https://www.youtube.com/watch?v=YSHFylmhpDg)
 - [6 Surprising Things You Can Do With v0](https://www.youtube.com/watch?v=IJH2_WFybEA)
 - [The beauty of using AI as your developer assistant](https://www.youtube.com/watch?v=i-kcoltsphk)
 - [The secret of using AI effectively in coding](https://www.youtube.com/watch?v=mrrk_RE2Mms)
 - [Will AI replace developers?](https://www.youtube.com/watch?v=YuEzeDowK_o)
-- [Why AI Makes Developers More Valuable Than Ever](https://www.youtube.com/watch?v=earKW7lNzrA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
