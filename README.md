@@ -25,8 +25,8 @@
 
 <!-- YOUTUBE:START -->
 - [This is the most common way to navigate between pages in Next.js](https://www.youtube.com/watch?v=YSHFylmhpDg)
-- [6 Surprising Things You Can Do With v0](https://www.youtube.com/watch?v=IJH2_WFybEA)
-- [The beauty of using AI as your developer assistant](https://www.youtube.com/watch?v=i-kcoltsphk)
+- [6 Surprising Things You Can Do With Vercel v0.dev](https://www.youtube.com/watch?v=IJH2_WFybEA)
+- [Used correctly, AI can supercharge your coding &amp; understanding](https://www.youtube.com/watch?v=i-kcoltsphk)
 - [The secret of using AI effectively in coding](https://www.youtube.com/watch?v=mrrk_RE2Mms)
 - [Will AI replace developers?](https://www.youtube.com/watch?v=YuEzeDowK_o)
 <!-- YOUTUBE:END -->
