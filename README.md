@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to programmatically trigger navigation in Next.js](https://www.youtube.com/watch?v=5iKsSsqcmps)
 - [How developers should approach using AI](https://www.youtube.com/watch?v=mZl_--Mcx2Y)
 - [This is the most common way to navigate between pages in Next.js](https://www.youtube.com/watch?v=YSHFylmhpDg)
-- [6 Surprising Things You Can Do With Vercel v0.dev](https://www.youtube.com/watch?v=IJH2_WFybEA)
+- [Best AI for Next.js: v0.dev &lpar;and 6 Surprising Things You Can Do With It&rpar;](https://www.youtube.com/watch?v=IJH2_WFybEA)
 - [Used correctly, AI can supercharge your coding &amp; understanding](https://www.youtube.com/watch?v=i-kcoltsphk)
-- [The secret of using AI effectively in coding](https://www.youtube.com/watch?v=mrrk_RE2Mms)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
