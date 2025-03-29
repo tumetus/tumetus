@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How trigger navigation in Next.js server components](https://www.youtube.com/watch?v=RZT5U4oz8WI)
 - [Is AI Debugging any good?](https://www.youtube.com/watch?v=pceQXc0VyV8)
 - [Next.js useRouterHook explained &lpar;How To Navigate Programmatically&rpar;](https://www.youtube.com/watch?v=Gl4FKl2MqIk)
 - [How to programmatically trigger navigation in Next.js](https://www.youtube.com/watch?v=5iKsSsqcmps)
 - [How developers should approach using AI](https://www.youtube.com/watch?v=mZl_--Mcx2Y)
-- [This is the most common way to navigate between pages in Next.js](https://www.youtube.com/watch?v=YSHFylmhpDg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
