@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Want to Add Animations in Next.js? DON&#39;T Ignore This New Feature](https://www.youtube.com/watch?v=ep9C5dYANnc)
 - [Don&#39;t make this mistake with AI as a Junior Developer](https://www.youtube.com/watch?v=R_TxTH-nssk)
 - [How trigger navigation in Next.js server components](https://www.youtube.com/watch?v=RZT5U4oz8WI)
 - [Is AI Debugging any good?](https://www.youtube.com/watch?v=pceQXc0VyV8)
 - [Next.js useRouterHook explained &lpar;How To Navigate Programmatically&rpar;](https://www.youtube.com/watch?v=Gl4FKl2MqIk)
-- [How to programmatically trigger navigation in Next.js](https://www.youtube.com/watch?v=5iKsSsqcmps)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
