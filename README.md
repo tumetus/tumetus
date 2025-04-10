@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to leave a strong impression as a developer](https://www.youtube.com/watch?v=WIRZ-jc5xEU)
 - [This is how to boost SEO with Server Components](https://www.youtube.com/watch?v=-TVEdjo09rQ)
 - [How to dominate technical meetings](https://www.youtube.com/watch?v=2kw-0D3CGqU)
 - [Caching in Next.js Server Components](https://www.youtube.com/watch?v=AKqmW81yvkQ)
 - [What is the benefit of fetching data in Server Components?](https://www.youtube.com/watch?v=CSmMGQWrzTE)
-- [Want to Add Page Transitions in Next.js? DON&#39;T Ignore This New Feature](https://www.youtube.com/watch?v=ep9C5dYANnc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
