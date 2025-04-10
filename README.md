@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [This is how Server Components boost SEO](https://www.youtube.com/watch?v=-TVEdjo09rQ)
+- [This is how to boost SEO with Server Components](https://www.youtube.com/watch?v=-TVEdjo09rQ)
 - [How to dominate technical meetings](https://www.youtube.com/watch?v=2kw-0D3CGqU)
 - [Caching in Next.js Server Components](https://www.youtube.com/watch?v=AKqmW81yvkQ)
 - [What is the benefit of fetching data in Server Components?](https://www.youtube.com/watch?v=CSmMGQWrzTE)
