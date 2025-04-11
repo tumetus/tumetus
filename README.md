@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The secret to becoming a respected developer](https://www.youtube.com/watch?v=fv3uPmvCQns)
 - [Next.js Route Handlers #1 Mistake](https://www.youtube.com/watch?v=oEMQd0AwICE)
 - [Another benefit of using Server Components](https://www.youtube.com/watch?v=qWUyZufNNOE)
 - [The CORRECT way to fetch data with Server Components](https://www.youtube.com/watch?v=sTGZfzL1PIU)
 - [How to leave a strong impression as a developer](https://www.youtube.com/watch?v=WIRZ-jc5xEU)
-- [This is how to boost SEO with Server Components](https://www.youtube.com/watch?v=-TVEdjo09rQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
