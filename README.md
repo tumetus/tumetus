@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This is the ONE thing I ALWAYS do with Route Handlers](https://www.youtube.com/watch?v=YjFNJ-E0wEo)
 - [Should you use only Server Components?](https://www.youtube.com/watch?v=KSK89PJ7hJg)
 - [The secret to becoming a respected developer](https://www.youtube.com/watch?v=fv3uPmvCQns)
 - [Next.js Route Handlers #1 Mistake](https://www.youtube.com/watch?v=oEMQd0AwICE)
 - [Another benefit of using Server Components](https://www.youtube.com/watch?v=qWUyZufNNOE)
-- [The CORRECT way to fetch data with Server Components](https://www.youtube.com/watch?v=sTGZfzL1PIU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
