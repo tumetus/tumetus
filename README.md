@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Unlock Technical Meeting Success: 6 Essential Hacks](https://www.youtube.com/watch?v=NYLf9uDbMMg)
 - [The secret technique to master technical meetings](https://www.youtube.com/watch?v=o31YY5B3gGI)
 - [This is the ONE thing I ALWAYS do with Route Handlers](https://www.youtube.com/watch?v=YjFNJ-E0wEo)
 - [Should you use only Server Components?](https://www.youtube.com/watch?v=KSK89PJ7hJg)
 - [The secret to becoming a respected developer](https://www.youtube.com/watch?v=fv3uPmvCQns)
-- [Next.js Route Handlers #1 Mistake](https://www.youtube.com/watch?v=oEMQd0AwICE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
