@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to build courage to speak in meetings](https://www.youtube.com/watch?v=pieph8jfvVg)
 - [Afraid to share your ideas in technical meetings?](https://www.youtube.com/watch?v=CiRt6EJ4pnw)
 - [Another mistake developers make with Next.js Route Handlers](https://www.youtube.com/watch?v=GiXMsKhHnFE)
 - [Unlock Technical Meeting Success: 6 Essential Hacks](https://www.youtube.com/watch?v=NYLf9uDbMMg)
 - [The secret technique to master technical meetings](https://www.youtube.com/watch?v=o31YY5B3gGI)
-- [This is the ONE thing I ALWAYS do with Route Handlers](https://www.youtube.com/watch?v=YjFNJ-E0wEo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
