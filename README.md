@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How NOT to use Fonts in Next.js](https://www.youtube.com/watch?v=a9av5WxcHeA)
 - [How to build courage to speak in meetings](https://www.youtube.com/watch?v=pieph8jfvVg)
 - [Afraid to share your ideas in technical meetings? &lpar;Use this cheat code&rpar;](https://www.youtube.com/watch?v=CiRt6EJ4pnw)
 - [Another mistake developers make with Next.js Route Handlers](https://www.youtube.com/watch?v=GiXMsKhHnFE)
 - [Unlock Technical Meeting Success: 6 Essential Hacks](https://www.youtube.com/watch?v=NYLf9uDbMMg)
-- [The secret technique to master technical meetings](https://www.youtube.com/watch?v=o31YY5B3gGI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
