@@ -26,7 +26,7 @@
 <!-- YOUTUBE:START -->
 - [Is AI the future of coding?](https://www.youtube.com/watch?v=aRnvklaX8qg)
 - [How NOT to use Fonts in Next.js](https://www.youtube.com/watch?v=a9av5WxcHeA)
-- [Master Next.js File System Routing in Minutes](https://www.youtube.com/watch?v=0kddgaPsIX4)
+- [This is how Next.js routing really works](https://www.youtube.com/watch?v=0kddgaPsIX4)
 - [How to build courage to speak in meetings](https://www.youtube.com/watch?v=pieph8jfvVg)
 - [Afraid to share your ideas in technical meetings? &lpar;Use this cheat code&rpar;](https://www.youtube.com/watch?v=CiRt6EJ4pnw)
 <!-- YOUTUBE:END -->
