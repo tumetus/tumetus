@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to use Google Fonts in Next.js &lpar;fast &amp; easy&rpar;](https://www.youtube.com/watch?v=WQtwjEU0PEI)
 - [Is AI the future of coding?](https://www.youtube.com/watch?v=aRnvklaX8qg)
 - [How NOT to use Fonts in Next.js](https://www.youtube.com/watch?v=a9av5WxcHeA)
 - [This is how Next.js routing really works](https://www.youtube.com/watch?v=0kddgaPsIX4)
 - [How to build courage to speak in meetings](https://www.youtube.com/watch?v=pieph8jfvVg)
-- [Afraid to share your ideas in technical meetings? &lpar;Use this cheat code&rpar;](https://www.youtube.com/watch?v=CiRt6EJ4pnw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
