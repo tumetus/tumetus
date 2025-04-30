@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Next.js + Server Actions + PostgreSQL - COMPLETE Tutorial](https://www.youtube.com/watch?v=fjtqNIWhk5o)
 - [The number ONE benefit of using next/font](https://www.youtube.com/watch?v=9saQ4M2var8)
 - [The best framework for tackling huge tasks](https://www.youtube.com/watch?v=Ryo785dBGkU)
 - [App Router vs. Pages Router](https://www.youtube.com/watch?v=bv4XwJMjNoo)
 - [How to use Google Fonts in Next.js &lpar;fast &amp; easy&rpar;](https://www.youtube.com/watch?v=WQtwjEU0PEI)
-- [Is AI the future of coding?](https://www.youtube.com/watch?v=aRnvklaX8qg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
