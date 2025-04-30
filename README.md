@@ -24,7 +24,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Next.js + Server Actions + PostgreSQL - COMPLETE Tutorial](https://www.youtube.com/watch?v=fjtqNIWhk5o)
+- [Next.js + PostgreSQL with Server Actions - COMPLETE Tutorial](https://www.youtube.com/watch?v=fjtqNIWhk5o)
 - [The number ONE benefit of using next/font](https://www.youtube.com/watch?v=9saQ4M2var8)
 - [The best framework for tackling huge tasks](https://www.youtube.com/watch?v=Ryo785dBGkU)
 - [App Router vs. Pages Router](https://www.youtube.com/watch?v=bv4XwJMjNoo)
