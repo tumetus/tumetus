@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [the skill that puts you ahead of 90% of developers](https://www.youtube.com/watch?v=bQOvF0QqNAs)
 - [Next.js + PostgreSQL with Server Actions - COMPLETE Tutorial](https://www.youtube.com/watch?v=fjtqNIWhk5o)
 - [The number ONE benefit of using next/font](https://www.youtube.com/watch?v=9saQ4M2var8)
 - [The best framework for tackling huge tasks](https://www.youtube.com/watch?v=Ryo785dBGkU)
 - [App Router vs. Pages Router](https://www.youtube.com/watch?v=bv4XwJMjNoo)
-- [How to use Google Fonts in Next.js &lpar;fast &amp; easy&rpar;](https://www.youtube.com/watch?v=WQtwjEU0PEI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
