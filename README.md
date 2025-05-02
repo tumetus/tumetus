@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Easily define fonts in Next.js with Tailwind CSS variables](https://www.youtube.com/watch?v=WzmvtvXsxjc)
 - [You need the best tools to be a top developer?](https://www.youtube.com/watch?v=aFN4xYdFyP8)
 - [Next.js nested routes explained](https://www.youtube.com/watch?v=v-WG9y4u3wQ)
 - [This is why to take a tutorial free week](https://www.youtube.com/watch?v=OXGgtJeH_wE)
 - [How to use Local Fonts in Next.js](https://www.youtube.com/watch?v=cVs6o8C_nUA)
-- [the skill that puts you ahead of 90% of developers](https://www.youtube.com/watch?v=bQOvF0QqNAs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
