@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DON&#39;T use fonts this way in Next.js](https://www.youtube.com/watch?v=XYR2hl0KDNE)
 - [How to gain influence at work](https://www.youtube.com/watch?v=Kx_51toCnOo)
 - [Do this EVERY TIME before you write any code](https://www.youtube.com/watch?v=fdhh-0KUodE)
 - [How to create a Dynamic Route in Next.js](https://www.youtube.com/watch?v=q7NAwfLyFSU)
 - [Easily define fonts in Next.js with Tailwind CSS variables](https://www.youtube.com/watch?v=WzmvtvXsxjc)
-- [You need the best tools to be a top developer?](https://www.youtube.com/watch?v=aFN4xYdFyP8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
