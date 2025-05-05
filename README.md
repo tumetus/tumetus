@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Do this EVERY TIME before you write any code](https://www.youtube.com/watch?v=fdhh-0KUodE)
 - [How to create a Dynamic Route in Next.js](https://www.youtube.com/watch?v=q7NAwfLyFSU)
 - [Easily define fonts in Next.js with Tailwind CSS variables](https://www.youtube.com/watch?v=WzmvtvXsxjc)
 - [You need the best tools to be a top developer?](https://www.youtube.com/watch?v=aFN4xYdFyP8)
 - [Next.js nested routes explained](https://www.youtube.com/watch?v=v-WG9y4u3wQ)
-- [This is why to take a tutorial free week](https://www.youtube.com/watch?v=OXGgtJeH_wE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
