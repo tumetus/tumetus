@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [This developer skill is not optional](https://www.youtube.com/watch?v=Iy9ILv50MHQ)
 - [Optimise your Next.js app with a Layout file](https://www.youtube.com/watch?v=4RoZjPGw9nA)
 - [Next.js Font benefits explained](https://www.youtube.com/watch?v=kCcNzdISg-Y)
 - [DON&#39;T use fonts this way in Next.js](https://www.youtube.com/watch?v=XYR2hl0KDNE)
 - [How to gain influence at work](https://www.youtube.com/watch?v=Kx_51toCnOo)
-- [Do this EVERY TIME before you write any code](https://www.youtube.com/watch?v=fdhh-0KUodE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
