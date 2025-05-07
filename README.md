@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Do you want to be noticed and grow as a developer?](https://www.youtube.com/watch?v=2Moq6tSQCiI)
 - [The secret behind the top developers &lpar;it&#39;s not what you think!&rpar;](https://www.youtube.com/watch?v=GOXlyjnoRc0)
 - [5 Reasons Mid-Level Devs Need To Use AI As Soon As You Can](https://www.youtube.com/watch?v=hogJoEe-rks)
 - [How to land the best jobs and projects](https://www.youtube.com/watch?v=h4hEaOOPL4w)
 - [This developer skill is not optional](https://www.youtube.com/watch?v=Iy9ILv50MHQ)
-- [Optimise your Next.js app with a Layout file](https://www.youtube.com/watch?v=4RoZjPGw9nA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
