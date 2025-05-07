@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [5 Reasons Mid-Level Devs Need To Use AI As Soon As You Can](https://www.youtube.com/watch?v=hogJoEe-rks)
 - [How to land the best jobs and projects](https://www.youtube.com/watch?v=h4hEaOOPL4w)
 - [This developer skill is not optional](https://www.youtube.com/watch?v=Iy9ILv50MHQ)
 - [Optimise your Next.js app with a Layout file](https://www.youtube.com/watch?v=4RoZjPGw9nA)
 - [Next.js Font benefits explained](https://www.youtube.com/watch?v=kCcNzdISg-Y)
-- [DON&#39;T use fonts this way in Next.js](https://www.youtube.com/watch?v=XYR2hl0KDNE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
