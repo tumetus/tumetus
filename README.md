@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Master Fonts in Next.js: 4 Essential Tips You Need](https://www.youtube.com/watch?v=o0gHq60z8eA)
 - [How to add loading indicator in Next.js Server Components](https://www.youtube.com/watch?v=nB2n34cb4jg)
 - [Best ways to use AI &lpar;if you don&#39;t want to fall behind&rpar;](https://www.youtube.com/watch?v=4AgC6KSn0QE)
 - [This is what the best developers do](https://www.youtube.com/watch?v=QrCpYA51Wto)
 - [Do you want to be noticed and grow as a developer?](https://www.youtube.com/watch?v=2Moq6tSQCiI)
-- [The secret behind the top developers &lpar;it&#39;s not what you think!&rpar;](https://www.youtube.com/watch?v=GOXlyjnoRc0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
