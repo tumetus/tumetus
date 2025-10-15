@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [5 Painful Next.js Performance Killers &lpar;and how to fix them&rpar;](https://www.youtube.com/watch?v=4-z_y1OruIU)
 - [Want to Speed Up Your Next.js App? DON’T Fetch in Client Components](https://www.youtube.com/watch?v=pzboZRK-gJg)
 - [Truth about failing as a developer](https://www.youtube.com/shorts/3v6oKyCCOrA)
 - [Master Fonts in Next.js: 4 Essential Tips You Need](https://www.youtube.com/shorts/o0gHq60z8eA)
 - [How to add loading indicator in Next.js Server Components](https://www.youtube.com/watch?v=nB2n34cb4jg)
-- [Best ways to use AI &lpar;if you don&#39;t want to fall behind&rpar;](https://www.youtube.com/watch?v=4AgC6KSn0QE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
