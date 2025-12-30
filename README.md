@@ -24,11 +24,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [I&#39;ve been using Cursor wrong this whole time](https://www.youtube.com/watch?v=fgoInDBsj6s)
 - [Next.js 16 - All you need to know](https://www.youtube.com/watch?v=8I1DIaN-Fs4)
 - [5 Painful Next.js Performance Killers &lpar;and how to fix them&rpar;](https://www.youtube.com/watch?v=4-z_y1OruIU)
 - [Want to Speed Up Your Next.js App? DON’T Fetch in Client Components](https://www.youtube.com/watch?v=pzboZRK-gJg)
 - [Truth about failing as a developer](https://www.youtube.com/shorts/3v6oKyCCOrA)
-- [Master Fonts in Next.js: 4 Essential Tips You Need](https://www.youtube.com/shorts/o0gHq60z8eA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
